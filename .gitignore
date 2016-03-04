@@ -1,0 +1,11 @@
+.DS_Store
+deps
+ebin
+*.beam
+erl_crash.dump
+.eunit
+log
+*.db
+*.d
+.erlang.mk
+*.swp
