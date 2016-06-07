@@ -9,3 +9,6 @@ log
 *.d
 .erlang.mk
 *.swp
+test/eunit/
+_build/
+
